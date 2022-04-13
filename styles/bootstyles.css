@@ -1,0 +1,26 @@
+.header{
+    height: 100px;
+}
+
+.footer{
+    height: 75px;
+    background-color: black;
+    color: white;
+}
+
+img{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+body{
+    text-align: center;
+    font-family:cursive;
+    background-color: aliceblue;
+}
+
+.a{
+    color: white;
+}

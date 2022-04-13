@@ -1,0 +1,38 @@
+p{
+    font-family: cursive;
+}
+
+a{
+    text-decoration: underline;
+}
+
+li{
+   font-size: smaller; 
+   text-decoration: none;
+   font-weight:normal;
+}
+
+.custombackground{
+    background-color:whitesmoke;
+}
+
+.contactinfo{
+    font-style:italic;
+    font-size: x-small;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+img{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+iframe{
+    width: 75%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
